@@ -1,7 +1,7 @@
 # Hi there 👋
  
 <p align="center">
-  <a href="https://x.com/yi23zhang" target="_blank">
+  <a href="https://x.com/_YeeZ93" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=77ac98" alt="Twitter"/>
   </a> 
   <a href='https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en' target="_blank">
